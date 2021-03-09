@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://images2.alphacoders.com/740/thumbbig-740460.png);
+  background-image: url(https://twitter.com/yeloranran/status/1369191700019605509/photo/1);
   background-size: cover;
   color: white;
   text-align: center;
@@ -34,13 +34,13 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
-  color: #000000;
+
 }
 
 .top-wrapper p {
   opacity: 1;
   margin-bottom: 3px;
-  color: #000000;
+ 
 }
 
 .btn-wrapper {
@@ -50,7 +50,7 @@ a {
 
 .btn-wrapper p {
   margin: 10px 0,8;
-  color: #000000;
+ 
 }
 
 .signup {
