@@ -34,13 +34,11 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
-
 }
 
 .top-wrapper p {
   opacity: 1;
   margin-bottom: 3px;
- 
 }
 
 .btn-wrapper {
@@ -49,8 +47,7 @@ a {
 }
 
 .btn-wrapper p {
-  margin: 10px 0,8;
- 
+  margin: 10px 0;
 }
 
 .signup {
@@ -86,7 +83,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: #964B00;
+  background-color: rgba(34, 49, 52, 0.9);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -183,7 +180,7 @@ header {
   padding: 15px 40px;
   background-color: #964B00;
   cursor: pointer;
-  box-shadow: 0 7px #000000;
+  box-shadow: 0 7px #1a7940;
 }
 
 .message:active {
@@ -197,7 +194,7 @@ footer img {
 }
 
 footer p {
-  color: #000000;
+  color: #b3aeb5;
   font-size: 12px;
 }
 
