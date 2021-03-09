@@ -39,6 +39,7 @@ a {
 .top-wrapper p {
   opacity: 0.7;
   margin-bottom: 3px;
+  color: #000000;
 }
 
 .btn-wrapper {
@@ -48,6 +49,7 @@ a {
 
 .btn-wrapper p {
   margin: 10px 0;
+  color: #000000;
 }
 
 .signup {
