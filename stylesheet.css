@@ -125,7 +125,6 @@ header {
 }
 
 .lesson-wrapper {
-  height:1000px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -136,7 +135,7 @@ header {
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color: #000000;
+  color: #5f5d60;
 }
 
 .heading h2 {
