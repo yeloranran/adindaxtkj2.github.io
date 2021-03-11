@@ -83,7 +83,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: #964b00;
+  background-color: #964B00;
   position :fixed;
   top: 0;
   z-index: 10;
@@ -135,7 +135,7 @@ header {
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color:  #b3aeb5;
+  color: #5f5d60;
 }
 
 .heading h2 {
@@ -143,8 +143,8 @@ header {
 }
 
 .lesson {
-  float: right;
-  width: 33%;
+  float: left;
+  width: 25%;
 }
 
 .lesson-icon {
@@ -152,16 +152,17 @@ header {
 }
 
 .lesson-icon p {
-  position: relative;
+  position: absolute;
+  top: 44%;
   width: 100%;
-  color: #000000;
+  color: white;
 }
 
 .text-contents {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
-  font-size: 12px;
+  font-size: 15px;
   color: #b3aeb5;
 }
 
@@ -177,9 +178,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #964B00;
+  background-color: 	#964B00;
   cursor: pointer;
-  box-shadow: 0 7px #452612;
+  box-shadow: 0 7px #26170b;
 }
 
 .message:active {
